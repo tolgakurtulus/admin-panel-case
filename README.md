@@ -14,6 +14,7 @@ Uygulama; ürün ve kullanıcıların listelenmesi, detaylarının görüntülen
 * Redux Toolkit
 * Ant Design v6
 * ESLint + Prettier
+* Node Versiyon : v22.18.0
 
 ## Proje Kurulumu ## 
 
@@ -184,7 +185,7 @@ Instead of a real backend, the project is developed using mock data powered by l
 * Redux Toolkit
 * Ant Design v6
 * ESLint + Prettier
-
+* Node Version : v22.18.0
 
 ## Project Setup ##
 
